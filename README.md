@@ -19,13 +19,10 @@
 
 ## ✨ _Featured Projects_
 
-# My Featured Projects :
+🎨 _My Featured Projects_
 
-projects = {
-
-    "nitrofox" : "https://github.com/SHIMORA-6600X/NitroFox",
-    
-    "advancedfox" : "https://gitlab.com/iahmed_7024-group/advancedfox/-/tree/main/Firefox%20Release?ref_type=heads",
+| _Projects_  | _Topic_ |    |
+|-------|-----|-------|
+| _NitroFox_ | _Performance_  | _Smooth_ |
+|  _AdvancedFox_  | _Performance_ | _Privacy & Security_ |
  
-
-}
