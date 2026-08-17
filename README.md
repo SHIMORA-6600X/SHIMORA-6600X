@@ -24,6 +24,7 @@
 projects = {
 
     "nitrofox" : "https://github.com/SHIMORA-6600X/NitroFox",
+    
     "advancedfox" : "https://gitlab.com/iahmed_7024-group/advancedfox/-/tree/main/Firefox%20Release?ref_type=heads",
  
 
