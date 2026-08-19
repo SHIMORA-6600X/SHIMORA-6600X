@@ -1,11 +1,11 @@
 
-## _About me_:
+## 🖌 _About me_:
 
 • _I Hope you like my project and find it useful and interesting_
 
 • _From time to time I create projects and make them open source_
 
-## _What I Care About_:
+## 🚀 _What I Care About_:
 
 • 🐧  _Linux Lover_
 
