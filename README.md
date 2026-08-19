@@ -7,7 +7,7 @@
 
 ## _What I Care About_:
 
-• 🐧  _Linux Enthusiast_
+• 🐧  _Linux Lover_
 
 • ⚙️  _Open Source_
 
