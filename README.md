@@ -15,7 +15,7 @@
 
 • 🛡  _CyberSecurity_
 
-• 🔓  _Digital Freedom_
+• 🔓  _Digital Privacy_
 
 ## ✨ _Featured Projects_
 
