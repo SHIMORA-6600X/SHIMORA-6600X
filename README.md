@@ -1,11 +1,19 @@
 
-## 🖌 _About me_:
+### 🖌 _About me_:
 
-• _I Hope you like my project and find it useful and interesting_
+• 🛠 _Making projects that are both functional and powerful_
 
-• _From time to time I create projects and make them open source_
+• ⚙️ _Optimizing performance with clean, efficient code_
 
-## 🚀 _What I Care About_:
+• 💪 _Fast, stable, and thoughtfully built_
+
+• ❤️ _Creating with care_
+
+• 💡 _Focused on clean work and steady progress_
+
+• ⏳ _From time to time I create projects and make them open source_
+
+### 🚀 _What I Care About_:
 
 • 🐧  _Linux Lover_
 
@@ -17,7 +25,9 @@
 
 • 🔓  _Digital Privacy_
 
-## ✨ _Featured Projects_
+• 🎥 _Content Creator_
+
+### ✨ _Featured Projects_
 
 🎨 _My Featured Projects_
 
