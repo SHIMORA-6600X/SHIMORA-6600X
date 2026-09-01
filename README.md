@@ -33,6 +33,6 @@
 
 | _Projects_  | _Topic_ | _Features_   |
 |-------|-----|-------|
-| _NitroFox_ | _Config Settings_  | _Performance & Smooth_ |
+| _ZenFox_ | _Config Settings_  | _Performance & Smooth_ |
 |  _AdvancedFox_  | _Config Settings_ | _Privacy & Security_ |
  
