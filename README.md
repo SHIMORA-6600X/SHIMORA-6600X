@@ -35,5 +35,5 @@
 | _Projects_  | _Topic_ | _Features_   |
 |-------|-----|-------|
 | _ZenFox_ | _Config Settings_  | _Performance & Smooth_ |
-|  _AdvancedFox_  | _Config Settings_ | _Privacy & Security_ |
+|  _AdvancedFox_  | _Config Settings_ | _Privacy & Security & Performance_ |
  
