@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bold&size=22&pause=1000&color=03F7A1&width=435&lines=Welcome+to+my+Profile;hi%2C+I'm+SHIMORA;Building+a+better+firefox;Focused+on+clean%2C+fast+browsing;firefox+Customization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bold&size=22&pause=1000&color=0FF796&width=435&lines=Welcome+to+my+Profile;hi%2C+I'm+SHIMORA;Building+a+better+Firefox;Focused+on+clean%2C+fast+browsing;firefox+Customization;Clean.+Fast.+Smooth." alt="Typing SVG" /></a>
 
 ### 🖌 _About me_:
 
