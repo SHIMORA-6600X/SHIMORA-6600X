@@ -36,5 +36,4 @@
 |-------|-----|-------|
 | _ZenFox_ | _Config Settings_  | _Performance & Smooth_ |
 |  _AdvancedFox_  | _Config Settings_ | _Privacy & Security & Performance_ |
-|  _Desktop OSS_  | _Open Source Apps Alternatives_ | _Open Source_ |
  
