@@ -11,18 +11,16 @@
   <a href="https://t.me/zenfox_firefox"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=sky" alt="Telegram"/></a>
 </p>
 
-
-<h3 align="left">📊 Stats</h3>
+<h3 align="left">📊 ~/status</h3>
 
 <p align="center">
-  <!-- كارت الإحصائيات الأساسي -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIMORA-6600X&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&hide_border=true" alt="GitHub Stats" />
+  <!-- كارت الإحصائيات الأساسي - Catppuccin Mocha Red -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIMORA-6600X&show_icons=true&bg_color=1e1e2e&title_color=f38ba8&icon_color=f38ba8&text_color=cdd6f4&hide_border=true" alt="GitHub Stats" />
   
-  <!-- كارت الـ Streak (الأيام المتتالية) -->
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMORA-6600X&theme=dark&background=0D1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=FFFF00&hide_border=true" alt="GitHub Streak" />
+  <!-- كارت الـ Streak (الأيام المتتالية) - Catppuccin Mocha Red -->
+ <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMORA-6600X&background=1e1e2e&ring=f38ba8&fire=f38ba8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ### 🖌 _About me_
 
