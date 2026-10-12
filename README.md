@@ -47,7 +47,7 @@
 | _ZenFox_ | _Config Settings_  | _Performance & Smooth_ |
 |  _AdvancedFox_  | _Config Settings_ | _Privacy & Security & Performance_ |
 
-<h3 align="left">📊 ~/stats</h3>
+<h3 align="left">📊 Stats</h3>
 
 <p align="center">
   <!-- كارت الإحصائيات الأساسي -->
