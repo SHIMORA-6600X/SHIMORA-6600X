@@ -57,14 +57,3 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMORA-6600X&theme=dark&background=0D1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=FFFF00&hide_border=true" alt="GitHub Streak" />
 </p>
-  
-
-### 4. البانر الأخضر في الآخر (Footer)
-ده بيتعمل باستخدام موقع اسمه `capsule-render` بيصنع صور SVG متدرجة الألوان.
-
-markdown
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=Stay%20curious.%20Stay%20ethical.&fontSize=30&fontColor=000000&animation=twinkling" />
-  <br>
-  <i>why following the rules when you make it 😏👻</i>
-</div>
