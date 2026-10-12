@@ -1,5 +1,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bold&size=22&pause=1000&color=0FF796&width=435&lines=Welcome+to+my+Profile;hi%2C+I'm+SHIMORA;Building+a+better+Firefox;Focused+on+clean%2C+fast+browsing;firefox+Customization;Clean.+Fast.+Smooth." alt="Typing SVG" /></a>
 
+<h3 align="left">🌐 Social</h3>
+
+<p align="left">
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/shimorax11.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-000000?style=for-the-badge&logo=bluesky&logoColor=blue" alt="Bluesky"/></a>
+  <!-- Mastodon -->
+  <a href="https://mastodon.social/@SHIMORA_6600X"><img src="https://img.shields.io/badge/MASTODON-000000?style=for-the-badge&logo=mastodon&logoColor=blue" alt="Mastodon"/></a>
+  <!-- Telegram -->
+  <a href="https://t.me/zenfox_firefox"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=sky" alt="Telegram"/></a>
+</p>
 ### 🖌 _About me_:
 
 • 🛠 _Making projects that are both functional and powerful_
