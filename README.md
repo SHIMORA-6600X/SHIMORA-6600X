@@ -10,7 +10,21 @@
   <!-- Telegram -->
   <a href="https://t.me/zenfox_firefox"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=sky" alt="Telegram"/></a>
 </p>
-### 🖌 _About me_:
+
+
+<h3 align="left">📊 Stats</h3>
+
+<p align="center">
+  <!-- كارت الإحصائيات الأساسي -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIMORA-6600X&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- كارت الـ Streak (الأيام المتتالية) -->
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMORA-6600X&theme=dark&background=0D1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=FFFF00&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+### 🖌 _About me_
 
 • 🛠 _Making projects that are both functional and powerful_
 
@@ -47,13 +61,3 @@
 | _ZenFox_ | _Config Settings_  | _Performance & Smooth_ |
 |  _AdvancedFox_  | _Config Settings_ | _Privacy & Security & Performance_ |
 
-<h3 align="left">📊 Stats</h3>
-
-<p align="center">
-  <!-- كارت الإحصائيات الأساسي -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIMORA-6600X&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- كارت الـ Streak (الأيام المتتالية) -->
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMORA-6600X&theme=dark&background=0D1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=FFFF00&hide_border=true" alt="GitHub Streak" />
-</p>
