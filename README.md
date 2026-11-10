@@ -27,6 +27,8 @@
 
 • ⏳ _From time to time I create projects and make them open source_
 
+• 🎮 _I'm Gamer , I'm a shooter FPS player_
+
 ### 🚀 _What I Care About_:
 
 • 🐧  _Linux Lover_
