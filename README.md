@@ -39,7 +39,9 @@
 
 • 🔓  _Digital Privacy_
 
-• 🎥 _Content Creator_
+• 🎥  _Content Creator_
+
+• 🎮  _Gaming_
 
 ### ✨ _Featured Projects_
 
