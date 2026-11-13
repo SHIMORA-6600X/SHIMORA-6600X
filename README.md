@@ -37,13 +37,13 @@
 
 • 🖥  _Computer Engineering_
 
+• 🎮  _Gaming_
+
 • 🛡  _CyberSecurity_
 
 • 🔓  _Digital Privacy_
 
 • 🎥  _Content Creator_
-
-• 🎮  _Gaming_
 
 ### ✨ _Featured Projects_
 
