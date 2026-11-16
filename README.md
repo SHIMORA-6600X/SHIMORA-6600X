@@ -31,13 +31,13 @@
 
 ### 🚀 _What I Care About_:
 
-• 🐧  _Linux Lover_
+• 🎮  _Gaming_
 
 • ⚙️  _Open Source_
 
-• 🖥  _Computer Engineering_
+• 🐧  _Linux Lover_
 
-• 🎮  _Gaming_
+• 🖥  _Computer Engineering_
 
 • 🛡  _CyberSecurity_
 
