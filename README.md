@@ -8,7 +8,7 @@
   <!-- Mastodon -->
   <a href="https://mastodon.social/@SHIMORA_6600X"><img src="https://img.shields.io/badge/MASTODON-000000?style=for-the-badge&logo=mastodon&logoColor=blue" alt="Mastodon"/></a>
   <!-- Telegram -->
-  <a href="https://t.me/zenfox_firefox"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=sky" alt="Telegram"/></a>
+  <a href="https://t.me/+e5A5bjJmX-43MmRk"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=sky" alt="Telegram"/></a>
 </p>
 
 
